@@ -12,8 +12,13 @@ Config.RadioListChangeNameCommand = "nameinradio" 	-- Only works if Config.LetPl
 Config.RadioChannelsWithName = {
 	["0"] = "Admin",
 	["1"] = "Police",
-	["2"] = "Sheriff",
-	["3"] = "Fbi",
-	["4"] = "Ambulance",
-	["5"] = "Artesh"
+	["2"] = "Police",
+	["3"] = "Police",
+	["4"] = "Police",
+	["5"] = "Police",
+	["6"] = "Police",
+	["7"] = "Fire",
+	["8"] = "Fire",
+	["9"] = "Medical",
+	["10"] = "Medical"
 }
